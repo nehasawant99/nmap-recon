@@ -30,7 +30,6 @@ nmap -sV scanme.nmap.org
 
 * Port 22 (SSH) was open
 * Port 80 (HTTP) was open
-* Port 9929 (Nping Echo) was open
 * Several ports were filtered by firewall rules
 
 ## Skills Demonstrated
